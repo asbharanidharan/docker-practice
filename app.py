@@ -1,1 +1,2 @@
-print("Hello from my first Docker application!")
+print("Hello from my updated Docker application!")
+print("I am learning Git and Docker.")
